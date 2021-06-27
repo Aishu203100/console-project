@@ -1,0 +1,19 @@
+.exaplmeimg{
+height:999;
+width:100%;    
+}
+#settingheading{
+ font-family: 'Viaoda Libre', cursive;
+}
+#VCSheading{
+    font-family: 'Viaoda Libre', cursive;
+    
+}
+#hrefforVCS{
+   color:turquoise; 
+}
+#ptag1, #ptag2, #ptag3, #ptag4{
+font-family: 'Lucida Calligraphy', cursive;
+font-weight: bolder;
+font-size: 50px;
+}
